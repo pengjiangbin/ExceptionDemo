@@ -1,0 +1,2 @@
+# ExceptionDemo
+使用自定义converter配合rxjava进行数据错误的同一处理
